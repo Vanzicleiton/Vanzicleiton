@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou o @Vanzicleiton
+- 👋 Oi, eu sou @Vanzicleiton
 - 👀 Tenho interesse em Python, HTML e WordPress
 - 🌱 Atualmente estou aprendendo Python, HTML e WordPress
 - 💞️ Estou buscando colaborar em projetos Python e Wordpress de pequeno porte para aprender mais
